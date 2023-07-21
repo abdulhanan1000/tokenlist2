@@ -18,7 +18,7 @@
       "address": "0x74075cA787eC3d1D555A5d18Fb3Ff2DFa783F3e9",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://i.imgur.com/TDzsUGL.png"
+      "logoURI": "https://i.imgur.com/SpE6qW8.png"
     },
     {
       "name": "Surinam Origin Peoples Ot",
@@ -27,6 +27,30 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://i.imgur.com/Eulbtw5.png"
+    },
+    {
+      "name": "Bouta Coin",
+      "symbol": "DDB",
+      "address": "0xa401a099b1C643DE506B49C6A954F4432Aa6B7cE",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://i.imgur.com/ADll7Vv.png"
+    },
+    {
+      "name": "Brunsi Coin",
+      "symbol": "BRaVO",
+      "address": "0x7f04c94d1cad56aa31f6eccc65574807e464e50f",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://i.imgur.com/nufICpd.png"
+    },
+    {
+      "name": "MONEYHOND",
+      "symbol": "Bordo",
+      "address": "0xcd30F85fD5B454B9AB9FD1c7b9Ef7879C9dfF083",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://i.imgur.com/lHAQQFi.png"
     },
     {
       "name": "WBNB Token",
